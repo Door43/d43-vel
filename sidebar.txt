@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vel:home|Door43 (vel)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vel|d43-vel repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vel/archive/master.zip|d43-vel.zip]]
+
+**Recent Changes**
+{{changes>ns = vel}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vel|Ethnologue data]]
+
